@@ -127,7 +127,8 @@
     "name": "Motion (2)",
     "group": "Selected",
     "modelMotionFile": "selected/motion/motion/main.vmd",
-    "camMotionFile": "selected/motion/motion/camera.vmd"
+    "camMotionFile": "selected/motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/7688b70721d98c13.mp3"
   },
   {
     "name": "Gee - Girls' Generation (1+2)",
@@ -274,7 +275,8 @@
     "name": "蔬菜汁 ぽっぴっぽー_DIVA2nd_motion (91+91)",
     "group": "Selected",
     "modelMotionFile": "selected/diva2nd_motion/_diva2nd_motion_91_91_/main.vmd",
-    "partnerMotionFile": "selected/diva2nd_motion/_diva2nd_motion_91_91_/partner.vmd"
+    "partnerMotionFile": "selected/diva2nd_motion/_diva2nd_motion_91_91_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/bf41507798d828cb.mp3"
   },
   {
     "name": "夏に去りし君を想フ_モーション",
@@ -384,13 +386,15 @@
   {
     "name": "Motion",
     "group": "Selected",
-    "modelMotionFile": "selected/nostalogic_singleedit_20101207_motion/motion/main.vmd"
+    "modelMotionFile": "selected/nostalogic_singleedit_20101207_motion/motion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/2303c9fd687ebd58.mp3"
   },
   {
     "name": "Chocolate Disco-三人 チョコレイト・ディスコ - りんちゃん",
     "group": "Selected",
     "modelMotionFile": "selected/chocolate_disco/chocolate_disco_/main_3.vmd",
-    "camMotionFile": "selected/chocolate_disco/chocolate_disco_/camera.vmd"
+    "camMotionFile": "selected/chocolate_disco/chocolate_disco_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/8a20633a10f5b62b.mp3"
   },
   {
     "name": "え？あぁ、そう。",
@@ -432,7 +436,8 @@
   {
     "name": "五月病2 吹っ切れた",
     "group": "Selected",
-    "modelMotionFile": "selected/2/_2_/main.vmd"
+    "modelMotionFile": "selected/2/_2_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/7b2a002830c5c040.mp3"
   },
   {
     "name": "lovemeifyoucan高身長",
@@ -605,7 +610,8 @@
     "name": "俄罗斯套娃-单人 matryoshka",
     "group": "Selected",
     "modelMotionFile": "selected/matryoshka/_matryoshka/main.vmd",
-    "camMotionFile": "selected/matryoshka/_matryoshka/camera.vmd"
+    "camMotionFile": "selected/matryoshka/_matryoshka/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/111845ad6899f1c3.mp3"
   },
   {
     "name": "Carry Me off 配布用motion - luka",
@@ -711,12 +717,14 @@
     "name": "倾杯2.0",
     "group": "Selected",
     "modelMotionFile": "selected/2_0/_2_0/main.vmd",
-    "camMotionFile": "selected/2_0/_2_0/camera.vmd"
+    "camMotionFile": "selected/2_0/_2_0/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/cc2cf3b418aa1c48.mp3"
   },
   {
     "name": "20110101追加",
     "group": "Selected",
-    "modelMotionFile": "selected/yellow_2_20110101/20110101_/main.vmd"
+    "modelMotionFile": "selected/yellow_2_20110101/20110101_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/523af594da7c53bf.mp3"
   },
   {
     "name": "猫耳开关 ねこみみスイッチモーション2 - nekomimi_kuro",
@@ -727,7 +735,8 @@
   {
     "name": "20110101追加 - Yellow-②",
     "group": "Selected",
-    "modelMotionFile": "selected/yellow_2_20110101/20110101_yellow_/main.vmd"
+    "modelMotionFile": "selected/yellow_2_20110101/20110101_yellow_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/523af594da7c53bf.mp3"
   },
   {
     "name": "五月病 おちゃめ機能配布用モーション - rin",
@@ -738,7 +747,8 @@
     "name": "动作 (こっち向いてBabyモーション",
     "group": "Selected",
     "modelMotionFile": "selected/baby_v101_baby/_baby_/main.vmd",
-    "camMotionFile": "selected/baby_v101_baby/_baby_/camera.vmd"
+    "camMotionFile": "selected/baby_v101_baby/_baby_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/eef233b999d4627a.mp3"
   },
   {
     "name": "【BV16A411n7hU】summertime",
@@ -794,12 +804,14 @@
   {
     "name": "幻想嘉年华 OPすーぱーあふぇくしょん",
     "group": "Selected",
-    "modelMotionFile": "selected/op/_op_/main_2.vmd"
+    "modelMotionFile": "selected/op/_op_/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6f3b3e69aef4a5c9.mp3"
   },
   {
     "name": "化物语OP 白金ディスコモーション",
     "group": "Selected",
-    "modelMotionFile": "selected/op/_op_/main.vmd"
+    "modelMotionFile": "selected/op/_op_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/4f5f8f30160eed4f.mp3"
   },
   {
     "name": "te-yut-teモーションセット",
@@ -887,7 +899,8 @@
     "name": "heart_beats_konjo - hb_face",
     "group": "Selected",
     "modelMotionFile": "selected/heart_beats_konjo/heart_beats_konjo_hb_f/main.vmd",
-    "expressionMotionFile": "selected/heart_beats_konjo/heart_beats_konjo/expression.vmd"
+    "expressionMotionFile": "selected/heart_beats_konjo/heart_beats_konjo/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/835f0aafbb2d4bc3.mp3"
   },
   {
     "name": "Stellar - Marionette(提线木偶) - 1Person ver.01 by LaunchCover",
@@ -932,7 +945,8 @@
     "group": "Selected",
     "modelMotionFile": "selected/yellow_2/yellow_2_/main_2.vmd",
     "camMotionFile": "selected/yellow_2/yellow_2/camera.vmd",
-    "expressionMotionFile": "selected/yellow_2/yellow_2/expression.vmd"
+    "expressionMotionFile": "selected/yellow_2/yellow_2/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/523af594da7c53bf.mp3"
   },
   {
     "name": "【BV1Ax411a72W】Love Me If You - 両目ボーン_右(白目になるモデル向け)",
@@ -950,7 +964,8 @@
     "name": "动作 (こっち向いてBabyモーション - お菓子屋ステージモーション",
     "group": "Selected",
     "modelMotionFile": "selected/baby_v101_baby/_baby_/main_2.vmd",
-    "camMotionFile": "selected/baby_v101_baby/_baby_/camera.vmd"
+    "camMotionFile": "selected/baby_v101_baby/_baby_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/eef233b999d4627a.mp3"
   },
   {
     "name": "リップシンク (2)",
